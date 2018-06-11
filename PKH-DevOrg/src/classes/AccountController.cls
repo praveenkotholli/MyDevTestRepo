@@ -1,3 +1,6 @@
+/*
+This is My Class
+*/
 public with sharing class AccountController {
     @AuraEnabled
     public static List<Account> findAll() {
