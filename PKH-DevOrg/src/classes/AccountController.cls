@@ -1,3 +1,6 @@
+/*
+ABCD Comment
+*/
 public with sharing class AccountController {
     @AuraEnabled
     public static List<Account> findAll() {
